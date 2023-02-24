@@ -7,7 +7,7 @@ o MVP (Produto Mínimo Viável) de um aplicativo.
 <br><br>
 
 ## :robot: Tema
-<p>Após uma reunião envolvendo os membros da equipe de desenvolvimento foi decidido que o tema a ser abordado em nosso projeto seria uma lista de jogos. então foi definido quais as entidades necessárias e compatíveis com o tema. Cada integrante do grupo participou ativamente no processo de criação do banco de dados, dando sugestões e implementando as informações dentro de cada entidade.</p>
+<p>Após uma reunião envolvendo os membros da equipe de desenvolvimento foi decidido que o tema a ser abordado em nosso projeto seria uma <b>lista de jogos</b>. então foi definido quais as entidades necessárias e compatíveis com o tema. Cada integrante do grupo participou ativamente no processo de criação do banco de dados, dando sugestões e implementando as informações dentro de cada entidade.</p>
 
 <br>
 
