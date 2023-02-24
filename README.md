@@ -70,9 +70,11 @@ entidades:
 
 <hr>
 
-<h2> SQUAD FORMADO POR 5 DESENVOLVEDORES </h2>
-<p>👾CASSIANO (Co-Facilitador)</p>
-<p>👾YURI (Gestora de conhecimento)</p>
-<p>👾RAFAELLE (Gestor de conflitos)</p>
-<p>👾CAIO (Colaborador)</p>
-<p>👾IGOR (Colaborador)</p>
+<h2>📐 Desenvolvedores: </h2>
+<br>
+
+<p>👾CASSIANO (Co-Facilitador) https://github.com/liracass</p> 
+<p>👾YURI (Gestora de conhecimento) https://github.com/Yur1sz</p>
+<p>👾RAFAELLE (Gestor de conflitos) https://github.com/rafaellecardoso</p>
+<p>👾CAIO (Colaborador) https://github.com/DragonStar97</p>
+<p>👾IGOR (Colaborador) https://github.com/igorvv17</p>
