@@ -3,9 +3,11 @@
 ## 📌 Sobre o Projeto
 Projeto em grupo da Resilia, módulo 5. 
 Recebemos uma proposta onde o objetivo é desenvolver propostas de APIs que serão
-o MVP (Produto Mínimo Viável) de um aplicativo. 
-<br>No projeto foi definido quais as entidades necessárias e compatíveis com
-o tema. Cada integrante do grupo ficou responsável por implementar uma dessas entidades.
+o MVP (Produto Mínimo Viável) de um aplicativo.
+<br><br>
+
+## :robot: Tema
+<p>Após uma reunião envolvendo os membros da equipe de desenvolvimento foi decidido que o tema a ser abordado em nosso projeto seria uma lista de jogos. então foi definido quais as entidades necessárias e compatíveis com o tema. Cada integrante do grupo participou ativamente no processo de criação do banco de dados, dando sugestões e implementando as informações dentro de cada entidade.</p>
 
 <br>
 
@@ -22,25 +24,26 @@ sistema de gerenciamento de informações.
 
 # 🎲 Cada uma das operações do CRUD
 <ul>
-    <li>✍️ Create (Criar): refere-se à ação de adicionar novos dados ao sistema. Por exemplo, criar um novo registro em
+    <li>✍️ <b>CREATE</b> (Criar): refere-se à ação de adicionar novos dados ao sistema. Por exemplo, criar um novo registro em
         uma tabela de um banco de dados.
     </li>
-    <li>📑 Read (Ler): refere-se à ação de ler ou recuperar dados existentes do sistema. Por exemplo, ler e exibir as
+    <li>📑 <b>READ</b> (Ler): refere-se à ação de ler ou recuperar dados existentes do sistema. Por exemplo, ler e exibir as
         informações de um registro específico de uma tabela.
     </li>
-    <li>📝 Update (Atualizar): refere-se à ação de modificar os dados existentes no sistema. Por exemplo, atualizar o
+    <li>📝 <b>UPDATE</b> (Atualizar): refere-se à ação de modificar os dados existentes no sistema. Por exemplo, atualizar o
         valor de um campo em um registro de uma tabela.</li>
-    <li>🗑 Delete (Deletar): refere-se à ação de remover dados existentes do sistema. Por exemplo, excluir um registro
+    <li>🗑 <b>DELETE</b> (Deletar): refere-se à ação de remover dados existentes do sistema. Por exemplo, excluir um registro
         específico de uma tabela.</li>
 </ul>
 <hr>
-## ▶️ Iniciando o projeto:
+<h2>▶️ Iniciando o projeto:</h2>
 
 ```bash
 # Instale as dependências
 ⇨ npm init
 ⇨ npm install express 
 ⇨ npm install dotenv
+⇨ npm install mysql
 ⇨ npm install mysql2
 ```
 <hr>
@@ -52,6 +55,10 @@ permitindo que as aplicações possam armazenar e acessar dados de forma eficien
 entidades:
 
 <h3> Entidades do Banco de Dados: </h3>
+<ul>
+<li>jogos_jogados</li>
+<li>lista_interesse</li>
+</ul>
 
 ## 🚀 Tecnologias:
 
@@ -71,8 +78,8 @@ entidades:
 <h2>📐 Desenvolvedores: </h2>
 <br>
 
-<p>👾CASSIANO (Co-Facilitador) https://github.com/liracass</p> 
-<p>👾YURI (Gestora de conhecimento) https://github.com/Yur1sz</p>
-<p>👾RAFAELLE (Gestor de conflitos) https://github.com/rafaellecardoso</p>
-<p>👾CAIO (Colaborador) https://github.com/DragonStar97</p>
-<p>👾IGOR (Colaborador) https://github.com/igorvv17</p>
+<p>👾 <a href="https://github.com/liracas">Cassiano Lira</a> (Co-Facilitador) </p> 
+<p>👾 <a href="https://github.com/Yur1sz">Yuri Nunes</a> (Gestor de conhecimento) </p>
+<p>👾 <a href="https://github.com/rafaellecardoso">Rafaelle Cardoso</a> (Gestora de conflitos) </p>
+<p>👾 <a href="https://github.com/DragonStar97">Caio Morais</a> (Colaborador)</p>
+<p>👾 <a href="https://github.com/igorvv17">Igor Galindo</a> (Colaborador)</p>
