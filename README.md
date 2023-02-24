@@ -38,12 +38,10 @@ sistema de gerenciamento de informações.
 
 ```bash
 # Instale as dependências
-⇨ npm install
-⇨ npm install sequelize-cli
-# Execute comando para gerar o banco de dados
-⇨ npx sequelize db:migrate
-# Execute a aplicação 
-⇨ npm run dev
+⇨ npm init
+⇨ npm install express 
+⇨ npm install dotenv
+⇨ npm install mysql2
 ```
 <hr>
 
